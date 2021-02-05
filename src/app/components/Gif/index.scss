@@ -1,0 +1,15 @@
+.gifs {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 5rem;
+
+  &__single {
+    display: flex;
+    width: 33%;
+  }
+
+  &__image {
+    width: 100%;
+    cursor: pointer;
+  }
+}

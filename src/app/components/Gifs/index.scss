@@ -1,0 +1,14 @@
+@import 'src/index.scss';
+
+.btn {
+  background-color: $btn-color;
+  border: none;
+  outline: none;
+  border-radius: 0.5rem;
+  padding: 1rem 3rem;
+  cursor: pointer;
+  color: $secondary-color;
+  text-transform: uppercase;
+  margin: 5rem 0;
+  font-size: 1.5rem;
+}
